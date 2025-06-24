@@ -15,6 +15,9 @@ This project aims to generate high-quality synthetic image data for tasks such a
 
 Each frame is rendered with consistent lighting, camera configuration, and visual fidelity, making it suitable for multi-view learning or synthetic supervision.
 
+
+![Sample Imag](https://github.com/user-attachments/assets/622a808f-8045-4a84-9f9c-fdea2146c2ac)
+
 ## Features
 
 - Multi-view rendering from fixed camera positions  
@@ -33,3 +36,5 @@ Each frame is rendered with consistent lighting, camera configuration, and visua
 - Adding joint (pose) or Landmark coordinate export  
 - Occlusion-aware visibility annotation  
 - Extension to topology-aware reconstruction or NeRF-compatible data
+
+
